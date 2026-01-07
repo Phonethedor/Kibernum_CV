@@ -4,6 +4,8 @@ Este proyecto consiste en un sitio web de portafolio personal / Curriculum Vitae
 
 El sitio es totalmente responsivo y cuenta con una interfaz moderna que incluye un modo oscuro para mejorar la experiencia de usuario.
 
+**[Enlace a sitio](https://phonethedor.github.io/Kibernum_CV/)**
+
 ## Características Principales
 
 *   **Diseño Responsivo:** Adaptable a dispositivos móviles, tablets y escritorio gracias a Bootstrap 5.
